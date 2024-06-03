@@ -280,6 +280,12 @@ a {
     width: 600px;
 }
 
+.reel-img:hover {
+    transition: 0.11s;
+    scale: 1.1;
+    cursor: pointer;
+}
+
 .adjust-1 {
     margin-top: 75px;
 }
@@ -319,6 +325,7 @@ a {
     
 }
 
+
 .png {
     background-color: gray;
 }
@@ -328,4 +335,10 @@ a {
     height: 190px;
     margin-left: 25px;
     border-radius: 20%;
+}
+
+.img:hover {
+    transition: 0.11s;
+    scale: 1.1;
+    cursor: pointer;
 }
