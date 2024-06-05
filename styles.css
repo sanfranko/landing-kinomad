@@ -380,3 +380,7 @@ a {
     border-color: #1C9DEB;
     box-shadow: 0 0 5px rgba(28, 157, 235, 0.5);
 }
+
+.message {
+    width: 300px;
+}
